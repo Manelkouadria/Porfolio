@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header div{
+    background-color: transparent;
+    font-size: larger;
+    display: flex;
+    justify-content: end;
+    padding: 30px;
+    gap: 25px;
+}
+.Acceuil{
+    background-image: url(background\ img.avif);
+    width: 100px;
+}
