@@ -99,12 +99,11 @@ header {
 }
 
 .cita {
-    background-image: url(productivité-en-entreprise-1080x675.jpg);
+    background-image: linear-gradient(#110808, #03030561), url(productivité-en-entreprise-1080x675.jpg);
     height: 50vh;
     background-size: cover;
     justify-content: center;
-    display: flex;
-    filter: brightness(50%);
+    display: flex2;
 }
 
 .moi3 {
